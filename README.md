@@ -1,4 +1,4 @@
-# Backtracking the 8 Queens
+# Recursively Backtracking the 8-Queens
 ## A backtracking solution to the classic 8 Queens problem. 
 
 This Java application solves the 8 queens problem through a backtracking approach.
