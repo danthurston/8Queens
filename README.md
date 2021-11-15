@@ -1,6 +1,5 @@
 # Recursively Backtracking the 8-Queens
 ## A backtracking solution to the classic 8 Queens problem. 
-###### - Java - Object-Oriented - AI - Backtracking - Recursive Alrorithm - Data Structures and Algorithms - 
 
 This Java application solves the 8 queens problem through a backtracking approach.
 The 8 queens puzzle is the challenge of positioning 8 queens on an 8x8 chessboard so that no queens are threatened. That is, they are positioned so that none of the 8 queens share the same row, column, or diagonal.
