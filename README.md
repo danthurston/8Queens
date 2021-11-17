@@ -1,4 +1,4 @@
-# Recursively Backtracking the 8-Queens Puzzle
+# Backtracking to Solve the 8-Queens Puzzle
 ## A backtracking solution to the classic 8 Queens problem. 
 
 This Java application solves the 8 queens puzzle through a backtracking approach.
